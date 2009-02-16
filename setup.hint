@@ -1,0 +1,5 @@
+category: X11
+requires: cygwin libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8
+sdesc: "LXDE application desktop entry editor"
+ldesc: "LXShortcut is a small program used to edit application shortcuts 
+created with freedesktop.org Desktop Entry spec."
