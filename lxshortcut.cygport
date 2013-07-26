@@ -1,0 +1,11 @@
+inherit gnome2
+
+NAME="lxshortcut"
+VERSION=0.1.2
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="LXDE application desktop entry editor"
+DESCRIPTION="LXShortcut is a small program used to edit application shortcuts
+created with freedesktop.org Desktop Entry spec."
+HOMEPAGE="http://lxde.org/"
+SRC_URI="mirror://sourceforge/lxde/${NAME}-${VERSION}.tar.gz"
